@@ -1,9 +1,9 @@
 <?php
 /**
  * mm_widget_colors
- * @version 1.2 (2013-12-11)
+ * @version 1.3 (2016-11-14)
  * 
- * A widget for ManagerManager plugin that allows text field to be turned into a color picker storing a chosen hex value in the field on the document editing page.
+ * @desc A widget for ManagerManager plugin that allows text field to be turned into a color picker storing a chosen hex value in the field on the document editing page.
  * 
  * @uses PHP >= 5.4.
  * @uses MODXEvo.plugin.ManagerManager >= 0.7.
@@ -17,9 +17,9 @@
  * @event OnDocFormPrerender
  * @event OnDocFormRender
  * 
- * @link http://code.divandesign.biz/modx/mm_widget_colors/1.2
+ * @link http://code.divandesign.biz/modx/mm_widget_colors/1.3
  * 
- * @copyright 2013
+ * @copyright 2012–2016
  */
 
 function mm_widget_colors($params){
